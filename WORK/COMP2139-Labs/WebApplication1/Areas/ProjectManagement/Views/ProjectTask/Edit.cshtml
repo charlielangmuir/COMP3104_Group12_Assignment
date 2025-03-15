@@ -1,0 +1,28 @@
+﻿@model WebApplication1.Areas.ProjectManagement.Models.ProjectTask
+
+@{
+    ViewBag.Title = "Edit Task";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form asp-area="ProjectManagement" asp-controller="ProjectTask" asp-action="Edit" method="post">
+    <input type="hidden" asp-for="ProjectTaskId" />
+    <input type="hidden" asp-for="ProjectId" />
+
+    <div class="form-group">
+        <label asp-for="Title" class="control-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Changes</button>
+    <a asp-action="Index" asp-route-projectId="@Model.ProjectId" class="btn btn-secondary">Cancel</a>
+</form>
+

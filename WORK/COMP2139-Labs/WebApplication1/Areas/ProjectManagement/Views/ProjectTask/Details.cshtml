@@ -1,0 +1,31 @@
+﻿@model WebApplication1.Areas.ProjectManagement.Models.ProjectTask
+
+@{
+    ViewBag.Title = "Task Details";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <tr>
+        <th>Task ID</th>
+        <td>@Model.ProjectTaskId</td>
+    </tr>
+    <tr>
+        <th>Title</th>
+        <td>@Model.Title</td>
+    </tr>
+    <tr>
+        <th>Description</th>
+        <td>@Model.Description</td>
+    </tr>
+    <tr>
+        <th>Project ID</th>
+        <td>@Model.ProjectId</td>
+    </tr>
+</table>
+
+<a asp-action="Edit" asp-route-id="@Model.ProjectTaskId" class="btn btn-success">Edit</a>
+<a asp-action="Index" asp-route-projectId="@Model.ProjectId" class="btn btn-primary">Back to List</a>
+<a asp-action="Delete" asp-route-id="@Model.ProjectTaskId" class="btn btn-danger">Delete</a>
+

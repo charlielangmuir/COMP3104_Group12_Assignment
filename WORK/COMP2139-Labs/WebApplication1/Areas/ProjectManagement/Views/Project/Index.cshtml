@@ -1,0 +1,58 @@
+@model List<Project>
+@{
+    ViewBag.Title = "Projects";
+    Layout="_Layout";
+
+    bool searchPerformed = ViewData["SearchPerfomed"] as bool? ?? false;
+    string searchString = ViewData["SearchString"] as string;
+}
+
+<h2>Project</h2>
+
+<a asp-action="Create" class="btn btn-primary">Create New Project</a>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Summary</th>  
+            <th>Action</th>
+        </thead>
+        <tbody>
+            @foreach(var project in Model){
+                <tr>
+                    <td>@project.ProjectId</td>
+                    <td><p> @Html.DisplayFor(model => project.Name)</p></td>
+                    <td><p>@Html.DisplayFor(model => project.Description)</p></td>
+                    <td>
+                        @await Component.InvokeAsync("ProjectSummary",new{ projectId = project.ProjectId})
+                    </td>
+                    <td>
+                        <a  asp-action="Details" asp-route-id="@project.ProjectId" class="btn btn-warning">Details</a>
+                        <a  asp-action="Edit" asp-route-id="@project.ProjectId" class="btn btn-warning">Edit</a>
+                        <a  asp-action="Delete" asp-route-id="@project.ProjectId" class="btn btn-warning">Delete</a>
+
+                        <a asp-area="ProjectManagement" asp-controller="ProjectTask" asp-action="Index" asp-route-projectId="@project.ProjectId" class="btn btn-warning">View Tasks</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    if (searchPerformed)
+    {
+        <p>No Project with string "@searchString" were found</p>
+        
+    }
+    else
+    {
+        <p>No Project available</p>
+    }
+    
+}
