@@ -18,3 +18,4 @@ Cruise Control with brake function
 Parking Assistant incl. Reversing Assistant, Active Park Distance Control and Reversing Assist Camera
 The 2025 5 Series is part of BMW’s eighth generation (code G60 / G61 / G68) of the 5 Series. 
 The 2025 5 Series design is more streamlined and modern, with sharper lines, slimmer lighting elements, and a sleeker silhouette
+The new BMW Operating System (OS) supports improved UI, over-the-air updates, cloud-based services, navigation, etc

@@ -8,3 +8,5 @@ Set your preferred cabin temperature and activate heated or cooled seats with th
 The 2025 E-Class is the midsize luxury sedan from Mercedes-Benz. 
 It sits between the C-Class and the S-Class in the lineup, and is targeted at buyers who want a balance of comfort, prestige, and modern technology.
 The exterior has been refreshed with more modern lines, sleeker lighting units, and a bold grille treatment
+MBUX (Mercedes-Benz User Experience) is the central infotainment system.
+ It supports voice assistant “Hey Mercedes,” over-the-air updates, and advanced navigation features
