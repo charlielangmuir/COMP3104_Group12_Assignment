@@ -1,4 +1,5 @@
-DevOps is a combination of Development and Operations.  
-In COMP3104, we learn how to automate software development processes using tools like GitHub, Docker, and CI/CD pipelines.  
-The goal of DevOps is to increase collaboration between developers and IT operations to deliver software faster and more reliably.  
-Continuous Integration and Continuous Deployment are key practices in modern software engineering.
+COMP 3104 – DevOps introduces students to the practices that bridge development and operations teams. 
+The course focuses on automation, collaboration, continuous integration (CI), and continuous delivery (CD). 
+Students learn how to use tools such as Git, GitHub Actions, Docker, and Jenkins to streamline deployment pipelines. 
+By the end of the course, students understand how DevOps reduces manual errors, improves software quality, and enables faster, more reliable releases. 
+The class also emphasizes teamwork and agile practices, preparing students for real-world software development environments.
