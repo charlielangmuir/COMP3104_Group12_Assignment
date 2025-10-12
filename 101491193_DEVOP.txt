@@ -1,4 +1,4 @@
-The COMP 3104 DevOps course introduces students to modern software development practices. 
-It focuses on automation, continuous integration, and collaboration between developers and operations teams. 
-Through this course, I learned how to use Git, GitHub Actions, and Docker to streamline development workflows. 
-DevOps helps bridge the gap between coding and deployment, making projects more reliable and efficient.
+The COMP3104 DevOps course introduces key principles such as automation, continuous integration, and continuous delivery (CI/CD). 
+Students learn how to use tools like GitHub Actions, Docker, and Jenkins to streamline development workflows. 
+The goal of DevOps is to improve collaboration between developers and operations teams, reduce deployment risks, and deliver software faster and more reliably. 
+Through labs and group assignments, students gain practical experience in applying these concepts.
