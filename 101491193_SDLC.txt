@@ -1,4 +1,4 @@
 DevOps plays a vital role in the Software Development Life Cycle (SDLC). 
-It bridges the gap between developers and operations teams, promoting collaboration and faster feedback loops. 
-By integrating CI/CD practices into each phase of SDLC, teams can detect errors earlier, automate testing, and ensure continuous delivery. 
-Ultimately, DevOps transforms the SDLC from a slow, manual process into an agile and efficient pipeline that delivers value continuously. 
+It integrates development, testing, deployment, and monitoring into a single continuous process. 
+Through automation and collaboration, DevOps ensures faster feedback loops, reduces manual errors, and improves overall software quality. 
+By applying DevOps practices, organizations can move from traditional waterfall models to more agile and efficient workflows.

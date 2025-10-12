@@ -1,4 +1,4 @@
-The COMP3104 DevOps course introduces students to the core principles of modern software delivery. 
-It focuses on Continuous Integration (CI), Continuous Deployment (CD), automation, and collaboration between development and operations teams. 
-Throughout the course, students learn how to use tools such as GitHub Actions, Docker, and pipelines to improve workflow efficiency. 
-The main goal is to understand how DevOps reduces time-to-market while increasing product reliability and quality. 
+DevOps is a combination of Development and Operations that promotes better collaboration and automation. 
+It aims to shorten the software development lifecycle and deliver applications more efficiently. 
+In the COMP3104 DevOps course, we learn about continuous integration, continuous delivery (CI/CD), version control with Git, and cloud-based deployment pipelines. 
+These practices help teams deliver reliable software faster and with fewer errors.
