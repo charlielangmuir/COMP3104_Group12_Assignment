@@ -1,0 +1,5 @@
+DevOps plays an essential role in the Software Development Life Cycle (SDLC). 
+It ensures that software is developed, tested, and deployed in a continuous and automated manner. 
+Through DevOps practices, teams can detect issues earlier, reduce manual effort, and improve code quality.
+Automation, collaboration, and continuous feedback help integrate all SDLC phases—from planning and coding 
+to testing and release—making the development process more efficient and reliable.
