@@ -1,4 +1,8 @@
-DevOps is a combination of Development and Operations that promotes better collaboration and automation. 
-It aims to shorten the software development lifecycle and deliver applications more efficiently. 
-In the COMP3104 DevOps course, we learn about continuous integration, continuous delivery (CI/CD), version control with Git, and cloud-based deployment pipelines. 
-These practices help teams deliver reliable software faster and with fewer errors.
+The COMP3104 DevOps course introduces students to modern software development practices.  
+It focuses on Continuous Integration (CI), Continuous Delivery (CD), and automation tools.  
+
+We learn how to use GitHub Actions to automatically test and deploy code.  
+DevOps is not only about tools — it's a culture of collaboration between developers and operations teams.  
+
+Through this course, I gained experience with Git branching,  
+workflow automation, and team collaboration using pull requests and CI/CD pipelines.
