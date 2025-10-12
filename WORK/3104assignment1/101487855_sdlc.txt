@@ -1,2 +1,3 @@
 Learning DevOps is essential in the software development cycle because it bridges the gap between development and operations,
-promoting faster delivery, higher quality, and continuous improvement.
+promoting faster delivery, higher quality, and continuous improvement. It helps developers automate builds, testing, and deployment,
+reducing errors and improving collaboration.
