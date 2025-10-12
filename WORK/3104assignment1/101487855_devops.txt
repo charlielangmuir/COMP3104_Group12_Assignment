@@ -1,1 +1,2 @@
-Comp 3104 DEVOPS for Computer Science is a Semester 5 course in the Computer Programming & Analysis (T177) program at George Brown College.
+Comp 3104 DEVOPS for Computer Science is a Semester 5 course in the Computer Programming & Analysis (T177) program at George Brown College. It focuses on the principles and practices of DevOps. integrating software development and IT operations to improve collaboration, 
+automation, and deployment efficiency.
