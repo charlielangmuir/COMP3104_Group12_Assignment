@@ -1,6 +1,3 @@
-COMP 3104 DevOps course introduces students to automation, integration, and deployment processes.  
-It focuses on bridging the gap between software development and operations teams.  
-Students learn to use tools such as GitHub Actions for continuous integration and delivery.  
-The course encourages frequent commits, version control, and collaboration in teams.  
-By applying DevOps principles, teams can release software faster and with higher quality.  
-It also emphasizes the importance of monitoring and feedback loops in the CI/CD pipeline.  
+The COMP 3104 DevOps course teaches students how to bridge the gap between software development and IT operations. 
+Through hands-on exercises, we learn about continuous integration (CI), continuous deployment (CD), automation tools, and collaboration in teams. 
+The course also emphasizes version control with Git, build pipelines using GitHub Actions, and teamwork through branching strategies and pull requests.

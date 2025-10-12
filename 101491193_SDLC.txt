@@ -1,6 +1,4 @@
-DevOps plays a key role in modern software development lifecycle (SDLC).  
-It helps automate testing, deployment, and infrastructure management throughout the process.  
-By integrating DevOps early in SDLC, teams achieve faster delivery and better code stability.  
-Continuous feedback and monitoring reduce bugs and improve collaboration among developers.  
-DevOps ensures that every phase—from planning to maintenance—is efficient and traceable.  
-In short, it transforms the traditional SDLC into an agile, automated, and collaborative system.  
+DevOps plays a vital role in the Software Development Life Cycle (SDLC). 
+It encourages automation, continuous testing, and monitoring at every stage of development. 
+By integrating DevOps practices, teams can reduce deployment time, detect bugs earlier, and improve software reliability. 
+Overall, DevOps transforms the SDLC from a slow, manual process into a fast, efficient, and collaborative workflow.
