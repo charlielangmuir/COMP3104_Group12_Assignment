@@ -13,3 +13,4 @@ For use with Audi smartphone interface and Audi phone box.
 The 2026 A6 is part of Audi’s transition into a new generation (internally called the C9 / Typ 4L)
 The 2026 A6 has sharper, more dynamic styling than its predecessor. The body lines are bolder, and the design emphasizes aerodynamics.
 Audi continues its “Digital Stage” concept: the new A6 cabin features multiple digital displays.
+A6 allroad: The allroad version is also planned, combining wagon / estate styling with higher ground clearance and rugged design. In that version, Audi quotes ~ 335 hp, and it has Quattro AWD.
