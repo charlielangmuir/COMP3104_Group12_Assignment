@@ -1,8 +1,4 @@
-The COMP3104 DevOps course introduces students to modern software development practices.  
-It focuses on Continuous Integration (CI), Continuous Delivery (CD), and automation tools.  
-
-We learn how to use GitHub Actions to automatically test and deploy code.  
-DevOps is not only about tools — it's a culture of collaboration between developers and operations teams.  
-
-Through this course, I gained experience with Git branching,  
-workflow automation, and team collaboration using pull requests and CI/CD pipelines.
+The COMP 3104 DevOps course introduces students to modern software development practices. 
+It focuses on automation, continuous integration, and collaboration between developers and operations teams. 
+Through this course, I learned how to use Git, GitHub Actions, and Docker to streamline development workflows. 
+DevOps helps bridge the gap between coding and deployment, making projects more reliable and efficient.
