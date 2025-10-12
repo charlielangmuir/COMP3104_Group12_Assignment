@@ -13,3 +13,6 @@ Wireless charging tray
 Drive/suspension
 Steptronic automatic transmission with shift paddles
 Elevated driving dynamics and less steering effort thanks to a more direct steering ratio
+Driver assistance
+Cruise Control with brake function
+Parking Assistant incl. Reversing Assistant, Active Park Distance Control and Reversing Assist Camera
