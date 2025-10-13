@@ -1,6 +1,4 @@
 DevOps is a crucial component of the Software Development Life Cycle (SDLC), bringing development and operations together into a seamless, unified workflow.
 In traditional models, developers focused on coding while operations teams managed deployment and maintenance—often causing bottlenecks and communication gaps.
 DevOps addresses these challenges through automation, continuous integration, testing, and deployment, fostering greater collaboration and efficiency.
-By streamlining processes, it enables faster release cycles, enhances system reliability, and allows teams to adapt quickly to user feedback.
-In today’s software landscape, DevOps is not just a best practice—it’s a fundamental requirement for achieving agility, scalability, and high-quality delivery.
 SDLC is very new to me but prof. Patel is making it very easy to understand :).
