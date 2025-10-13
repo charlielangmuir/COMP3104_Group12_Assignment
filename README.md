@@ -2,6 +2,7 @@
 ## Group Members
 - **Leader:** Charlie Langmuir - [GitHub](https://github.com/charlielangmuir)
 - **Member:** Matthew Zygiel 101487855 - [GitHub](https://github.com/Matt-ru)
+- **Member:** Yueyang Peng 101491193 - [GitHub](https://github.com/91MLP)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
