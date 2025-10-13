@@ -3,3 +3,4 @@ The course emphasizes automation, collaboration, and the principles of continuou
 Students gain hands-on experience with tools like Git, GitHub Actions, Docker, and Jenkins to optimize and automate deployment pipelines.
 By the end of the course, they understand how DevOps minimizes manual errors, enhances software quality, and accelerates reliable releases.
 The course also highlights teamwork and agile methodologies, equipping students for modern, real-world software development settings.
+I hope to learn how to work seamlessly in the industry by the end of my devops course!
