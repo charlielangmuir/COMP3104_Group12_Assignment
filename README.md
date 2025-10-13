@@ -1,6 +1,7 @@
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Charlie Langmuir - [GitHub](https://github.com/charlielangmuir)
+- **Member:** Matthew Zygiel 101487855 - [GitHub](https://github.com/Matt-ru)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
